@@ -1,0 +1,22 @@
+name: ooi-echo-matrix-decomp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - basemap
+  - cartopy
+  - dask
+  - ipykernel
+  - iris
+  - jupyter
+  - matplotlib
+  - netCDF4
+  - numpy
+  - palettable
+  - pandas
+  - python
+  - requests
+  - tensorly
+  - scipy
+  - scikit-learn
+  - xarray
