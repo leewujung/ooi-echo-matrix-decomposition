@@ -14,9 +14,14 @@ dependencies:
   - numpy
   - palettable
   - pandas
+  - pip
   - python
   - requests
   - tensorly
   - scipy
   - scikit-learn
   - xarray
+  - pip:
+      - time-series-nmf
+      - fbpca
+      - git+https://github.com/ShunChi100/RobustPCA
