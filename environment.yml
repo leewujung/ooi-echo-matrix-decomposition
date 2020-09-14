@@ -6,6 +6,7 @@ dependencies:
   - basemap
   - cartopy
   - dask
+  - dill
   - ipykernel
   - iris
   - jupyter
